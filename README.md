@@ -1,3 +1,4 @@
 # hello! 👋
 - 🐻 Computer Science & Linguistics @ UCLA
-- 💻 Interested in AI, computer vision, & embedded systems
+- 🌱 Exploring different fields and seeing where my curiosity takes me
+- 🔬 Currently getting into research and embedded systems
