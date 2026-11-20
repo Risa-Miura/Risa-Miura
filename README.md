@@ -1,4 +1,4 @@
-# Risa Miura
+# Risa Miura (hello! 👋)
 
 Computer Science and Linguistics student at UCLA (B.A., expected Mar 2028).
 
